@@ -249,4 +249,5 @@ Cliente_Telefones (cliente_id, telefones_id)
 
 **Disciplina**: Programação Orientada a Objetos  
 **Professor**: Dr. Eng. Gerson Penha  
+**Aluna:** Mariana Lins  
 **Atividade**: IV - Integração Frontend/Backend REST  
